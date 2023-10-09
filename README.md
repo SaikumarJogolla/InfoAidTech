@@ -1,2 +1,2 @@
 # InfoAidTech
-Projects fot InfoAidTech internship
+Projects for InfoAidTech internship
